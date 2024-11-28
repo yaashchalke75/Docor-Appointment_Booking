@@ -34,3 +34,4 @@ Pass:- yash12345
 9) npm install
 10)npm run dev frontend is loaded succesfully.
 
+-------------------------------------------------------------------------------------------
